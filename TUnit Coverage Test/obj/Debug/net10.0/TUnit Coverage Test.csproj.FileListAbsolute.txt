@@ -1,0 +1,33 @@
+C:\Users\dmorin\RiderProjects\TUnit Coverage Test\TUnit Coverage Test\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\dmorin\RiderProjects\TUnit Coverage Test\TUnit Coverage Test\bin\Debug\net10.0\appsettings.json
+C:\Users\dmorin\RiderProjects\TUnit Coverage Test\TUnit Coverage Test\bin\Debug\net10.0\TUnit Coverage Test.staticwebassets.endpoints.json
+C:\Users\dmorin\RiderProjects\TUnit Coverage Test\TUnit Coverage Test\bin\Debug\net10.0\TUnit Coverage Test.exe
+C:\Users\dmorin\RiderProjects\TUnit Coverage Test\TUnit Coverage Test\bin\Debug\net10.0\TUnit Coverage Test.deps.json
+C:\Users\dmorin\RiderProjects\TUnit Coverage Test\TUnit Coverage Test\bin\Debug\net10.0\TUnit Coverage Test.runtimeconfig.json
+C:\Users\dmorin\RiderProjects\TUnit Coverage Test\TUnit Coverage Test\bin\Debug\net10.0\TUnit Coverage Test.dll
+C:\Users\dmorin\RiderProjects\TUnit Coverage Test\TUnit Coverage Test\bin\Debug\net10.0\TUnit Coverage Test.pdb
+C:\Users\dmorin\RiderProjects\TUnit Coverage Test\TUnit Coverage Test\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\dmorin\RiderProjects\TUnit Coverage Test\TUnit Coverage Test\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\dmorin\RiderProjects\TUnit Coverage Test\TUnit Coverage Test\obj\Debug\net10.0\TUnit Coverage Test.csproj.AssemblyReference.cache
+C:\Users\dmorin\RiderProjects\TUnit Coverage Test\TUnit Coverage Test\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\dmorin\RiderProjects\TUnit Coverage Test\TUnit Coverage Test\obj\Debug\net10.0\TUnit Coverage Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmorin\RiderProjects\TUnit Coverage Test\TUnit Coverage Test\obj\Debug\net10.0\TUnit Coverage Test.AssemblyInfoInputs.cache
+C:\Users\dmorin\RiderProjects\TUnit Coverage Test\TUnit Coverage Test\obj\Debug\net10.0\TUnit Coverage Test.AssemblyInfo.cs
+C:\Users\dmorin\RiderProjects\TUnit Coverage Test\TUnit Coverage Test\obj\Debug\net10.0\TUnit Coverage Test.csproj.CoreCompileInputs.cache
+C:\Users\dmorin\RiderProjects\TUnit Coverage Test\TUnit Coverage Test\obj\Debug\net10.0\TUnit Coverage Test.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dmorin\RiderProjects\TUnit Coverage Test\TUnit Coverage Test\obj\Debug\net10.0\TUnit Coverage Test.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dmorin\RiderProjects\TUnit Coverage Test\TUnit Coverage Test\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\dmorin\RiderProjects\TUnit Coverage Test\TUnit Coverage Test\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\dmorin\RiderProjects\TUnit Coverage Test\TUnit Coverage Test\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\dmorin\RiderProjects\TUnit Coverage Test\TUnit Coverage Test\obj\Debug\net10.0\scopedcss\bundle\TUnit Coverage Test.styles.css
+C:\Users\dmorin\RiderProjects\TUnit Coverage Test\TUnit Coverage Test\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\dmorin\RiderProjects\TUnit Coverage Test\TUnit Coverage Test\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\dmorin\RiderProjects\TUnit Coverage Test\TUnit Coverage Test\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\dmorin\RiderProjects\TUnit Coverage Test\TUnit Coverage Test\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\dmorin\RiderProjects\TUnit Coverage Test\TUnit Coverage Test\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\dmorin\RiderProjects\TUnit Coverage Test\TUnit Coverage Test\obj\Debug\net10.0\TUnit Co.FD5FB4E6.Up2Date
+C:\Users\dmorin\RiderProjects\TUnit Coverage Test\TUnit Coverage Test\obj\Debug\net10.0\TUnit Coverage Test.dll
+C:\Users\dmorin\RiderProjects\TUnit Coverage Test\TUnit Coverage Test\obj\Debug\net10.0\refint\TUnit Coverage Test.dll
+C:\Users\dmorin\RiderProjects\TUnit Coverage Test\TUnit Coverage Test\obj\Debug\net10.0\TUnit Coverage Test.pdb
+C:\Users\dmorin\RiderProjects\TUnit Coverage Test\TUnit Coverage Test\obj\Debug\net10.0\TUnit Coverage Test.genruntimeconfig.cache
+C:\Users\dmorin\RiderProjects\TUnit Coverage Test\TUnit Coverage Test\obj\Debug\net10.0\ref\TUnit Coverage Test.dll

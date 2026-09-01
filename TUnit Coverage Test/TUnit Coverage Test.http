@@ -1,0 +1,6 @@
+@TUnit_Coverage_Test_HostAddress = http://localhost:5202
+
+GET {{TUnit_Coverage_Test_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
